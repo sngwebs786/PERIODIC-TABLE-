@@ -1,0 +1,66 @@
+td{
+    width: 45px;
+    border: 1px blue solid;
+    height: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-family: arial;
+}
+num{
+    font-size: 12px;
+}
+#he{
+}
+
+.no-bor{
+    border: none;
+}
+.or{
+    background-color: #FF8C6C;
+}
+.pur{
+    background-color: orchid;
+}
+.bl{
+    background-color: rgb(116, 206, 248);
+}
+.gr{
+    background-color: rgb(171, 228, 124);
+}
+.br{
+    background-color: rgb(187, 129, 21);
+}
+.mud{
+    background-color: rgb(243, 222, 181);
+}
+.l-bl{
+    background-color: rgb(216, 234, 247);
+}
+.all{
+    background-color: rgb(241, 229, 204);
+}
+.yel-or{
+    background-color: rgb(236, 212, 101);
+}
+.main{
+    margin-left: 120px;
+}
+h1{
+    padding-top: 0px !important;
+    font-size: 50px;
+    text-align: center;
+}
+.heading{
+    background-color: rgb(238, 210, 51);
+    width: 920px;
+    margin-left: 120px;
+}
+.green-text{
+    color: green;
+}
+.text-blue{
+    color: blue;
+}
+.text-red{
+    color: rgb(187, 2, 2);
+}
